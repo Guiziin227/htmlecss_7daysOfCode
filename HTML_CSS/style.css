@@ -1,0 +1,86 @@
+*{
+    font-family: 'Inter', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+}
+
+/* ------------------------ CABEÇALHO ------------------- */
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px 56px;
+    font-size: 16px;
+    flex-wrap: wrap;
+}
+
+.logo{
+    cursor: pointer;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 32px;
+}
+
+nav ul li a{
+    color: #667085;
+    text-decoration: none;
+}
+
+.signIn{
+    border: none;
+    background-color: transparent;
+    font-size: 16px;
+    color: #667085;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.signUp{
+    background-color:#8E2424;
+    font-size: 16px;
+    padding: 10px 18px;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    
+}
+
+/* ----------------------- seção 1 -------------------- */
+
+
+.section-one{
+    text-align: center;
+    height: 407px;
+    width: fill(1,440px);
+    padding: 96px 0;
+}
+
+.sobreNos{
+    padding: 0.5rem 0px;
+    color: #8E2424;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.tituloSobre{
+    padding: 1rem 0;
+    font-size: 48px;
+}
+
+.sobre{
+    padding: 1rem 0;
+    font-size: 20px;
+    color: #667085;
+}
+
