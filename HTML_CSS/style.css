@@ -84,3 +84,28 @@ nav ul li a{
     color: #667085;
 }
 
+/* ----------------------------- dados -------------------------- */
+
+.container-two{
+    display: grid;
+    grid-template-columns: 278px 278px 278px 278px;
+    gap: 0px 32px;
+    padding: 0px 112px 96px 112px;
+    width: 100%;
+    justify-content: center;
+}
+
+.titulo-two{
+    font-size: 60px;
+    color: #8E2424;
+    padding: 12px 0px;
+}
+
+.subtitulo-two{
+    padding-bottom: 8px;
+}
+
+.container-two p {
+    color: #667085;
+    font-size: 1rem;
+}
