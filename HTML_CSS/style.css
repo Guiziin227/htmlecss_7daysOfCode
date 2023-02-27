@@ -5,9 +5,11 @@
     box-sizing: border-box;
 }
 
+
 body{
     width: 100%;
     height: 100vh;
+    background-color: #ffffff;
 }
 
 /* ------------------------ CABEÇALHO ------------------- */
@@ -108,4 +110,40 @@ nav ul li a{
 .container-two p {
     color: #667085;
     font-size: 1rem;
+}
+
+/* ----------------------- seção três ----------------------*/ 
+
+.container-three{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+        
+}
+
+.vagas{
+    color: #8E2424;
+    background-color: rgba(142, 36, 36, 0.05);
+    border-radius: 16px;
+    padding: 4px 12px 4px 12px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.titulo-three{
+    font-size: 36px;
+}
+
+.vagasText{
+    padding-bottom: 64px;
+    font-size: 20px;
+    color: #667085;
+}
+
+
+.image{
+    width: 76rem;
+    height: 25rem;
 }
