@@ -147,3 +147,43 @@ nav ul li a{
     width: 76rem;
     height: 25rem;
 }
+
+
+/* ------------------- vagas ----------- */
+
+.titulo-four{
+    font-size: 20px;
+    width: 768px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: flex-start;
+    padding: 64px 0px 32px 0px;
+    font-weight: 500;
+}
+
+.vagas-trabalho {
+    width: 768px;
+    margin: 0 auto 24px auto;
+    list-style: none;
+    border: 1px solid rgba(128, 128, 128, 0.3);
+    border-radius: 16px;
+}
+
+.titulo__da-vaga{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.vaga__job {
+    padding: 24px 24px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.info-vaga p{
+    display: inline-block;
+    padding: 32px 24px 0px 0px;
+    color: #667085;
+    font-size: 16px;
+}
