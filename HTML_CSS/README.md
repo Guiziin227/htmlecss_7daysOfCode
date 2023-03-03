@@ -10,7 +10,6 @@ Fiz esse projeto para fixar meu conhecimento em CSS mais especificamente.
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 ![image](https://user-images.githubusercontent.com/104660667/222596789-33f3edf3-8f18-41e8-b3c0-c06626ef2c95.png)#vitrinedev
 
 
