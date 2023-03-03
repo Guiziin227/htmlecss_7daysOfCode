@@ -1,6 +1,6 @@
-# Nome do meu projeto
+# Projeto HTML e CSS 7 dias
 
-Rápida descrição do objetivo de fazer esse projeto
+Fiz esse projeto para fixar meu conhecimento em CSS mais especificamente.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -11,7 +11,9 @@ Rápida descrição do objetivo de fazer esse projeto
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![image](https://user-images.githubusercontent.com/104660667/222596789-33f3edf3-8f18-41e8-b3c0-c06626ef2c95.png)#vitrinedev
+
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+O projeto em si, não foi muito difícil, pois já domino mais a área, porém onde senti mais dificuldade foi em fazer o dia 5 e deixar tudo alinhado verticalmente.
